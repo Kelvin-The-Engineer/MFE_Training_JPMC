@@ -1,0 +1,1 @@
+console.log("Welcome to day 1 - Hello World!");
